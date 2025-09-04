@@ -36,11 +36,6 @@ I design **AI solutions for embedded devices**, focusing on **real-time signal p
 
 ---
 
-## 📊 GitHub Stats
-![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reaaaale&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reaaaale&layout=compact)
-
----
 
 ## 🎓 Education
 - **M.Sc. in Electronic Engineering** · University of Cagliari (2023 – Present)  
