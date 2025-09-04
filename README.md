@@ -6,11 +6,12 @@ I design **AI solutions for embedded devices**, focusing on **real-time signal p
 ---
 
 ## 🛠️ Core Skills
-- **Programming**: Python, C/C++, MATLAB  
-- **AI & ML**: PyTorch, Lava-DL, Flask, OpenCV, MediaPipe  
-- **Embedded Systems**: ESP32, Arduino, SPI, ADS1299, PCB Design (KLayout)  
-- **Signal Processing**: EMG/EEG acquisition, Filtering, Feature extraction  
-- **Tools**: Git, Linux, Oscilloscope, Impedance Meter  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 ---
 
@@ -35,6 +36,12 @@ I design **AI solutions for embedded devices**, focusing on **real-time signal p
 
 ---
 
+## 📊 GitHub Stats
+![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reaaaale&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reaaaale&layout=compact)
+
+---
+
 ## 🎓 Education
 - **M.Sc. in Electronic Engineering** · University of Cagliari (2023 – Present)  
 - **B.Sc. in Biomedical Engineering** · University of Cagliari (2022)  
@@ -44,7 +51,7 @@ I design **AI solutions for embedded devices**, focusing on **real-time signal p
 ## 🌐 Contacts
 📍 Quartu Sant’Elena (CA), Italy  
 📧 [alucda08@gmail.com](mailto:alucda08@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com) *(add your profile link)*  
+💼 [LinkedIn](...)  
 💻 [GitHub](https://github.com/Reaaaale)  
 
 ---
