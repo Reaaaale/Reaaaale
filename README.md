@@ -38,7 +38,7 @@ I design **AI solutions for embedded devices**, focusing on **real-time signal p
 
 
 ## 🎓 Education
-- **M.Sc. in Electronic Engineering** · University of Cagliari (2023 – Present)  
+- **M.Sc. in Cybersecurity Artificial Intelligence and Computer Engineering** · University of Cagliari (2025 – Present)  
 - **B.Sc. in Biomedical Engineering** · University of Cagliari (2022)  
 
 ---
