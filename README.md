@@ -1,5 +1,5 @@
-Alessandro Reale
+# Alessandro Reale
 
-Embedded systems, software engineering and machine learning.
+### Embedded Systems · Software Engineering · Machine Learning
 
-Currently working on embedded AI, firmware development and real-time applications.
+Currently working on **Embedded AI**, **Firmware Development**, and **Real-Time Applications**.
